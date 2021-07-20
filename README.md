@@ -81,3 +81,6 @@
 
 ### 소프트웨어 동작 예시
 ![image](https://user-images.githubusercontent.com/78855847/126331002-45b6a50e-8a37-4c3d-bc0f-e5be4836244d.png)
+<br><br>
+## 프로그램의 python 소스코드 원본
+- 본 보고서와 함께 첨부된 "pet_food.ipynb" 파일
